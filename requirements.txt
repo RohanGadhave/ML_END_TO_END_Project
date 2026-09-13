@@ -6,3 +6,4 @@ xgboost==1.6.2
 catboost==1.2.5
 seaborn==0.12.2
 matplotlib==3.7.2
+dill==0.3.8
